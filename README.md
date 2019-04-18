@@ -1,8 +1,5 @@
 # GDAL-Translate-Windows
 ## CMU Software Engineering Capstone, Spring 2019
-### Thane Wilson
-### Caleb Gartner
-### Joshua Mathews
 
 ## About
 This simply runs `gdal_translate` by itself.  Something we needed for our software engineering project.
